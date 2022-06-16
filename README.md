@@ -1,2 +1,2 @@
 # org-roam-agenda
-Dynamic org agenda based on org-roam
+Dynamic org agenda based on org-roam and vulpea
